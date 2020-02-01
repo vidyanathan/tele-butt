@@ -34,9 +34,9 @@ def getSign(day, month):
         return "aquarius"
     elif date(year, 2, 19) <= temp <= date(year, 3, 20):
         return "pisces"
-        print("pisces")
+        
     
-print(getSign(25, 12))
+#(getSign(25, 12))
   
 
 
